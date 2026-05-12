@@ -1,2 +1,6 @@
-gohan:Reis
-Mizu:Wasser
+gohan:reis
+mizu:wasser
+ichi:eins
+ni:zwei
+san:drei
+yon:vier
